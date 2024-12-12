@@ -16,7 +16,7 @@ Proyek ini adalah aplikasi manajemen poliklinik berbasis web yang dirancang untu
 
 ## Instalasi
 1. Clone repository:
-   git clone https://github.com/username/repository-poliklinik.git
+   git clone https://github.com/GilangDjati/poliklinik-web-app/
 2. Import database:
 - Masuk ke phpMyAdmin, buat database baru (`poli_bk.sql`).
 - Import file `database/poli_bk.sql`.
